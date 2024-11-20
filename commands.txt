@@ -1,0 +1,14 @@
+ls
+pwd
+mkdir <name>
+rm <name>
+cd
+
+
+
+grep "hello" file.txt
+sudo apt update
+sudo apt upgrade
+sudo apt install <package>
+sudo apt remove <package_name>
+sudo apt search <package_name>
