@@ -11,3 +11,14 @@ do
 done
 
 echo "The sum of the digits is: $sum"
+
+
+# open command prompt
+# sudo apt update
+# sudo apt install nano
+# nano --version
+# nano sum.sh
+# write code
+# ctrl O - enter - ctrl x
+# chmod +x sum.sh
+# ./sum.sh
